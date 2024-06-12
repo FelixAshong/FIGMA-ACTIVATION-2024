@@ -24,6 +24,9 @@
 
 ```
 
+![Figma Image](https://github.com/XBLU18/Figma-2024/assets/147840930/af04b969-e786-4408-9345-0ff620b1cc05)
+
+
 ## Contact
 
 📧 Email: [![Email](https://img.icons8.com/color/48/000000/gmail--v1.png)](mailto:felixashong4@gmail.com?subject=Request%20for%20Download%20Password)
