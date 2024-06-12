@@ -26,7 +26,7 @@
 
 ## Contact
 
-📧 Email: [felixashong4@gmail.com](mailto:your-email@example.com?subject=Request%20for%20Download%20Password)
-📞 Phone: [https://wa.link/przwn8]
+📧 Email: [![Email](https://img.icons8.com/ios-filled/50/000000/email-open.png) felixashong4@gmail.com](mailto:felixashong4@gmail.com?subject=Request%20for%20Download%20Password)
 
+📞 WhatsApp: [![WhatsApp](https://img.icons8.com/ios-filled/50/000000/whatsapp.png) https://wa.link/przwn8]
 ![4cc7732def86bf69bb2091337570327f (1)](https://github.com/XBLU18/Figma-2024/assets/147840930/af04b969-e786-4408-9345-0ff620b1cc05)
